@@ -36,7 +36,7 @@ This repository will include:
 
 ## 📫 Connect With Me
 - Email: oyekansimisola40@gmail.com
-- LinkedIn: [linkedin.com/in/oyekan-simisola](https://www.linkedin.com/in/oyekansimisola)
+- LinkedIn: [linkedin.com/in/oyekan simisola](https://www.linkedin.com/in/oyekansimisola)
 
 ---
 
