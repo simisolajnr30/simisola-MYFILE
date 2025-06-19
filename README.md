@@ -36,7 +36,7 @@ This repository will include:
 
 ## 📫 Connect With Me
 - Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/oyekan-simisola](https://www.linkedin.com/in/oyekan-simisola)
+- LinkedIn: [linkedin.com/in/oyekan-simisola](https://www.linkedin.com/in/oyekan simisola)
 
 ---
 
