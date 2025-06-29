@@ -10,10 +10,7 @@ I’m an aspiring *Cybersecurity Analyst* passionate about Blue Team operations,
 ## 🧠 Currently Learning
 - ✅ Google Cybersecurity Certificate (Completed)
 - 🌐 Cisco Networking Basics (In Progress)
-- 🛡 LetsDefend SOC Analyst Training (In Progress)
-- 📘 Cybrary SOC Analyst Path (In Progress)
 - 📚 Udemy Cybersecurity Projects (In Progress)
-- 🐧 Linux Essentials for Cybersecurity on Youtube
 
 ---
 
