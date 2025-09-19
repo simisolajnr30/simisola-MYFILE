@@ -1,40 +1,45 @@
 # simisola-MYFILE
-# 👋 Hello, I am Oyekan Simisola
+#  Hello, I am Oyekan Simisola
+Aspiring Cybersecurity Analyst | Blue Team | SOC | Digital Forensic
 
-Welcome to my GitHub!
+## About Me
+I’m an aspiring *Cybersecurity Analyst* passionate about:
+- Blue Team operations
+- SOC analysis and monitoring
+- Digital defense and threat detection
 
-I’m an aspiring *Cybersecurity Analyst* passionate about Blue Team operations, SOC analysis, and digital defense. This repository tracks my progress through cybersecurity courses, labs, and hands-on projects.
-
----
-
-## 🧠 Currently Learning
-- ✅ Google Cybersecurity Certificate (Completed)
-- 🌐 Cisco Networking Basics (In Progress)
-- 📚 Udemy Cybersecurity Projects (In Progress)
+This repository tracks my journey through cybersecurity courses, labs, and hands-on projects.
 
 ---
 
-## 🔧 What's Inside This Repo
-This repository will include:
-- 📁 Notes from courses and certifications
-- 🧪 Labs and projects (SIEM, packet analysis, phishing detection)
-- 🛠 Tools and command cheat sheets
-- 🏅 Certificates and project screenshots
+##  Currently Learning
+- Google Cybersecurity Certificate (Completed)
+- Cisco Networking Basics (Completed)
+- Deloitte Australia - Cyber Job Simulation (Completed)
+- Udemy Cybersecurity Projects (In Progress)
 
 ---
+## Projects
+  -**Firewall Rules & Traffic Control**  
+  - **Cowrie Honeypot Deployment & Threat Analysis**  
+  - **Host-Based Intrusion Detection System (HIDS)**  
+  - **Web Application Security & Log Analysis**  
+  - **Network Traffic Analysis with Wireshark**  
+  - **Phishing Simulation & Email Forensics**  
+  -**IP and Domain Threat Intelligence**  
+  - **Threat Hunting with Splunk**  
+  - **Malware Analysis with Velociraptor**  
+  - **Cyber Threat Intelligence (CTI) Report**  
+  - **Password Cracking Techniques**  
+  - **Incident Report Writing & Documentation**  
 
-## 🎯 My Goals
-- Secure a *remote cybersecurity internship*
-- Build real-world SOC experience with labs and blue team platforms
-- Pass *CompTIA Security+*
-- Create a strong GitHub portfolio recruiters can trust
+## Connect With Me  
+[LinkedIn](your-linkedin-url-here)
 
----
 
-## 📫 Connect With Me
+##  Connect With Me
 - Email: oyekansimisola40@gmail.com
 - LinkedIn: [linkedin.com/in/oyekan-simisola-35747a1b8](https://www.linkedin.com/in/oyekan-simisola-35747a1b8)
 
 ---
-
-⭐ Thanks for stopping by!
+ Thanks for stopping by!
