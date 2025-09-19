@@ -26,7 +26,7 @@ This repository tracks my journey through cybersecurity courses, labs, and hands
   - **Web Application Security & Log Analysis**  
   - **Network Traffic Analysis with Wireshark**  
   - **Phishing Simulation & Email Forensics**  
-  -**IP and Domain Threat Intelligence**  
+  - **IP and Domain Threat Intelligence**  
   - **Threat Hunting with Splunk**  
   - **Malware Analysis with Velociraptor**  
   - **Cyber Threat Intelligence (CTI) Report**  
