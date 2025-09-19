@@ -20,7 +20,7 @@ This repository tracks my journey through cybersecurity courses, labs, and hands
 
 ---
 ## Projects
-  -**Firewall Rules & Traffic Control**  
+  - **Firewall Rules & Traffic Control**  
   - **Cowrie Honeypot Deployment & Threat Analysis**  
   - **Host-Based Intrusion Detection System (HIDS)**  
   - **Web Application Security & Log Analysis**  
